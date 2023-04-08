@@ -42,7 +42,7 @@ If you would like to contribute to Rhythmiq, please follow these steps:
 
 ## Credits
 
-Rhythmiq was created by [Your Name]. Special thanks to the following resources:
+Rhythmiq was created by Shraddha Rao. Special thanks to the following resources:
 
 * [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 * [React documentation](https://reactjs.org/docs/)
